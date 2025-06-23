@@ -1,0 +1,15 @@
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.AssemblyInfoInputs.cache
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.AssemblyInfo.cs
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.csproj.CoreCompileInputs.cache
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.sourcelink.json
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\bin\Debug\net8.0\LAB4 OOP.exe
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\bin\Debug\net8.0\LAB4 OOP.deps.json
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\bin\Debug\net8.0\LAB4 OOP.runtimeconfig.json
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\bin\Debug\net8.0\LAB4 OOP.dll
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\bin\Debug\net8.0\LAB4 OOP.pdb
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.dll
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\refint\LAB4 OOP.dll
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.pdb
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\LAB4 OOP.genruntimeconfig.cache
+C:\Users\Dream Machines\Desktop\lab 1 kpi\LAB4 OOP\LAB4 OOP\obj\Debug\net8.0\ref\LAB4 OOP.dll
